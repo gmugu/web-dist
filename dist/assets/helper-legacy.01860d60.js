@@ -1,0 +1,1 @@
+System.register(["./index-legacy.5c10aefb.js"],(function(e){"use strict";var t,n;return{setters:[function(e){t=e.bX,n=e.bJ}],execute:function(){e("I",t(n,{baseStyle:{_before:{content:"",pos:"absolute",top:-10,right:-2,bottom:-10,left:-10}}}))}}}));
